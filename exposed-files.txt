@@ -1,0 +1,7 @@
+--- www.att.com ---
+  /.env -> 403
+  /.git/config -> 404
+  /dump.sql -> 404
+  /admin -> 404
+  /api -> 200
+  /backup -> 200

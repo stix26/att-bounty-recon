@@ -1,0 +1,7 @@
+att.com -> HTTP/1.0 301 Moved Permanently
+www.att.com -> HTTP/2 200 
+login.att.com -> my.att.com -> HTTP/2 403 
+api.att.com -> HTTP/2 404 
+att.net -> HTTP/1.0 301 Moved Permanently
+wireless.att.com -> HTTP/1.1 301 Moved Permanently
+business.att.com -> HTTP/2 301 

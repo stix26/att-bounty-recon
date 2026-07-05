@@ -1,0 +1,1 @@
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/att.com/v2.0/.well-known/openid-configuration ["e741d71c-c6b6-47b0-803c-0f3b32b07556"]
